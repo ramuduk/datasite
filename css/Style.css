@@ -1,0 +1,96 @@
+BODY {
+padding:0;
+margin:0;
+height:100%;
+background:url(../images/bg.jpg) top left;
+background-repeat:repeat-x;
+background-color:#FFFFFF;
+}
+TD{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#676767;
+}
+.maintable{
+width:809px;
+}
+.blacktext1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#000000;
+}
+a.blacktextlink1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#000000;
+}
+a.blacktextlink1:hover{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:underline;
+color:#000000;
+}
+.dotted-line{
+background:url(../images/dotted-line.gif);
+background-repeat:repeat-x;
+height:1px;
+}
+a.leftmenulink{
+font-family:Tahoma, Arial, Verdana;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#5A5A5A;
+}
+a.leftmenulink:hover{
+text-decoration:underline;
+}
+.footer-repeat{
+background:url(../images/footer-repeat.jpg);
+height:66px;
+}
+.copyrighttext{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#505050;
+}
+a.boldcopyrighttextlink{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#505050;
+}
+a.boldcopyrighttextlink:hover{
+text-decoration:underline;
+}
+a.link{
+font-family:Tahoma, Arial, Verdana;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#000000;
+}
+a.link:hover{
+font-family:Tahoma, Arial, Verdana;
+font-size:11px;
+font-weight:normal;
+text-decoration:underline;
+color:#000000;
+}
+.redtext{
+font-family:Tahoma, Arial, Verdana;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#8F0201;
+}
